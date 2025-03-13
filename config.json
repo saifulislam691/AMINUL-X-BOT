@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100071880593545",
+    "100011152309303",
     ""
   ],
   "whiteListMode": {
@@ -30,7 +30,7 @@
   "GENDER": "MALE",
   "nickNameBot": "𝐀𝐌𝐈𝐍𝐔𝐋-𝐁𝐎𝐓",
   "FACEBOOK": "https://www.facebook.com/br4nd.abir.your.next.bf.jan",
-  "prefix": "#",
+  "prefix": "!",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
